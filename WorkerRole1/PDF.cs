@@ -9,6 +9,7 @@ namespace WorkerRole1
     public class PDF
     {
         public byte[] pdfArray { set; get; }
-        public string tempString { set; get; }
+        public string tempString { set; get; } 
+
     }
 }
